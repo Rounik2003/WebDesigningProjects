@@ -1,2 +1,2 @@
-# WebDesigningProjects
- Web Designing Projects for 2nd sem
+# WebDesigningprojects
+ All my web-designing projects are here
